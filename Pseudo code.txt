@@ -1,4 +1,4 @@
----------------------------------- PSEUDO CODE TO CONVERT KG INTO POUND ----------------------------------
+---------------------------------- PSEUDO CODE TO CONVERT Milli second INTO Hours ----------------------------------
 
 1- Display a message "Enter amount".
 
